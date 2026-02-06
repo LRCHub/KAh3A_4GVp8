@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Mess Is Mine",
+  "base_artist": "Vance Joy",
+  "createdAt": "2026-02-06T06:41:18.445313Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mess Is Mine",
+      "artist": "Vance Joy",
+      "has_synced": true,
+      "path": "select/01_Mess_Is_Mine_Vance_Joy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Your Mess Is Mine",
+      "artist": "Heroe",
+      "has_synced": true,
+      "path": "select/02_Your_Mess_Is_Mine_Heroe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mess Is Mine",
+      "artist": "Jessica Mauboy",
+      "has_synced": false,
+      "path": "select/03_Mess_Is_Mine_Jessica_Mauboy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mess Is Mine (Live from Philadelphia)",
+      "artist": "Vance Joy",
+      "has_synced": false,
+      "path": "select/04_Mess_Is_Mine_(Live_from_Philadelphia)_Vance_Joy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mess Is Mine [Live From Philadelphia]",
+      "artist": "Vance Joy",
+      "has_synced": false,
+      "path": "select/05_Mess_Is_Mine_[Live_From_Philadelphia]_Vance_Joy.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mess Is Mine",
+      "artist": "Vance Joy",
+      "has_synced": true,
+      "path": "select/06_Mess_Is_Mine_Vance_Joy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mess Is Mine (Live at Red Rocks Amphitheatre)",
+      "artist": "Vance Joy",
+      "has_synced": true,
+      "path": "select/07_Mess_Is_Mine_(Live_at_Red_Rocks_Amphitheatre)_Vance_Joy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mess Is Mine - Live at Sydney Opera House",
+      "artist": "Vance Joy",
+      "has_synced": true,
+      "path": "select/08_Mess_Is_Mine_-_Live_at_Sydney_Opera_House_Vance_Joy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mess Is Mine - Live at Red Rocks Amphitheatre",
+      "artist": "Vance Joy",
+      "has_synced": true,
+      "path": "select/09_Mess_Is_Mine_-_Live_at_Red_Rocks_Amphitheatre_Vance_Joy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mess Is Mine",
+      "artist": "Vance Joy",
+      "has_synced": false,
+      "path": "select/pl_01_Mess_Is_Mine_Vance_Joy.txt"
+    }
+  ]
+}
